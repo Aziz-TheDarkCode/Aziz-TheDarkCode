@@ -12,7 +12,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="HTML5" width="120px" src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" />
-<img align="left" alt="HTML5" width="90px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
 <br />
 <br />
 
