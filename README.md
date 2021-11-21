@@ -24,6 +24,11 @@
 
 ### Tools:
 <img align="left" alt="HTML5" width="40px" src="https://miro.medium.com/max/1200/1*Il-74JaJpKMhmuHgD-IoCw.png" />
+<img align="left" alt="HTML5" width="40px" src="https://pngimg.com/uploads/github/github_PNG19.png" />
+<img align="left" alt="HTML5" width="40px" src="https://i.imgur.com/PVNjlMN.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2021/01/Git_Logo-2048x2048.png" />
+<img align="left" alt="HTML5" width="40px" src="https://www.ade-technologies.com/images/Postman_tool.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2021/01/Git_Logo-2048x2048.png" />
 
 <br />
 <br />
