@@ -2,6 +2,7 @@
 
 
 ## I'm a Senegalese 🇸🇳 , Big Noob 😅!!
+
 - 🌟 Passionate by everything turning around technologies
 - 👯 I’m happy to colloborate with everybody
 - ⚡ Fun fact: I have no hobbies 🤣🤣🤣
@@ -10,10 +11,11 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-violettepng.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://clipart.info/images/ccovers/1499794874html5-js-css3-logo-png.png" />]
 <br />
 <br />
-Aziz-TheDarkCode/codeSTACKr Aziz-TheDarkCode/codeSTACKr 
+
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
