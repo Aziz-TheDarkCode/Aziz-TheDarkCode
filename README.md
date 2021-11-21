@@ -14,7 +14,7 @@
 <img align="left" alt="HTML5" width="40px" src="https://tribelocal.com/wp-content/uploads/2018/02/2000px-HTML5_logo_and_wordmark.svg_.png" />
 <img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Devicon-css3-plain-wordmark.svg/1024px-Devicon-css3-plain-wordmark.svg.png" />
 <img align="left" alt="HTML5" width="40px" src="https://avatars.mds.yandex.net/i?id=68a6d0cf039f46c2559e193e01cd45da-5635981-images-thumbs&n=13" />
-<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 
 <br />
 <br />
