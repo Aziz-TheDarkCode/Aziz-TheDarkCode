@@ -1,7 +1,6 @@
 ### NAGUEN DEFF, I'm Abdou Aziz Ndiaye - aka TheDarkcode 👋 
 
 
-👨‍💻
 ## I'm a Senegalese 🇸🇳 , big noob 😅!!
 - 🌟 Passionate by everything turning around technologies
 - 👯 I’m happy to colloborate with everybody
