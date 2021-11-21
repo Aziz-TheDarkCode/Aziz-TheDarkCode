@@ -1,7 +1,7 @@
 ### Hi everybody, I'm Abdou Aziz Ndiaye - aka TheDarkcode 👋 
 
 
-## I'm a Senegalese 🇸🇳 , Big Noob 😅!!
+## I am still learning so just call me Big Noob 😅!!
 
 - 🌟 Passionate by everything turning around technologies
 - 👯 I’m happy to colloborate with everybody
