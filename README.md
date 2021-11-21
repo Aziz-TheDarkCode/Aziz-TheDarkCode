@@ -11,8 +11,8 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
-<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://tribelocal.com/wp-content/uploads/2018/02/2000px-HTML5_logo_and_wordmark.svg_.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Devicon-css3-plain-wordmark.svg/1024px-Devicon-css3-plain-wordmark.svg.png" />
 <img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
 <img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
