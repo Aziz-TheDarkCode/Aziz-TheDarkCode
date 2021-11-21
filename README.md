@@ -21,7 +21,6 @@
 <img alt="HTML5" width="150px" src="https://old.excdev.com/wp-content/uploads/2018/02/slim-discourse-logo.png" />
 <br />
 <br />
-
 ### Tools:
 <img align="left" alt="HTML5" width="40px" src="https://miro.medium.com/max/1200/1*Il-74JaJpKMhmuHgD-IoCw.png" />
 <img align="left" alt="HTML5" width="40px" src="https://pngimg.com/uploads/github/github_PNG19.png" />
