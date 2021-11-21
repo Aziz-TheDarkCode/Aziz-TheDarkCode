@@ -13,6 +13,32 @@
 
 <img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
 <img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
+<img align="left" alt="HTML5" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" />
+<img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/Sass_logo.png" />
 <br />
 <br />
 
