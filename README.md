@@ -17,7 +17,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="HTML5" width="26px" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-violettepng.png" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://icones.pro/wp-content/uploads/2021/05/icone-html-violettepng.png" />]
 <br />
 <br />
 
