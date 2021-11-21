@@ -28,8 +28,8 @@
 <img align="left" alt="HTML5" width="40px" src="https://i.imgur.com/PVNjlMN.png" />
 <img align="left" alt="HTML5" width="40px" src="https://logos-download.com/wp-content/uploads/2021/01/Git_Logo-2048x2048.png" />
 <img align="left" alt="HTML5" width="40px" src="https://www.ade-technologies.com/images/Postman_tool.png" />
-<img align="left" alt="HTML5" width="40px" src="https://miro.medium.com/max/1200/1*IQPERZi0pkVNPfblez0UFQ.png" />
-<img align="left" alt="HTML5" width="40px" src="https://euroia.eu/wp-content/uploads/Adobe_XD_logo_stacked.png" />
+<img align="left" alt="HTML5" width="50px" src="https://miro.medium.com/max/1200/1*IQPERZi0pkVNPfblez0UFQ.png" />
+<img align="left" alt="HTML5" width="50px" src="https://euroia.eu/wp-content/uploads/Adobe_XD_logo_stacked.png" />
 <br />
 <br />
 
