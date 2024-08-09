@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my world 👋🌍, I'm Abdou Aziz Ndiaye</h1>
-<h3 align="center">I am a software engineer from the Teranga's land (Senegal 🇸🇳)</h3>
+<h3 align="center">I am a software engineer from the Teranga land (Senegal 🇸🇳)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz-thedarkcode&label=Profile%20views&color=0e75b6&style=flat" alt="aziz-thedarkcode" /> </p>
 
@@ -11,7 +11,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/darkcode0002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="darkcode0002" height="30" width="40" /></a>
 <a href="https://twitter.com/the_darkcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="the_darkcode" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdou-aziz-ndiaye-js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdou-aziz-ndiaye-js" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
