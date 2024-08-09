@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Abdou Aziz Ndiaye</h1>
-<h3 align="center">I am Junior developer at Zone01 Dakar who constantly seeks out innovative solutions to everyday problems</h3>
+<h1 align="center">Welcome to my world 👋🌍, I'm Abdou Aziz Ndiaye</h1>
+<h3 align="center">I am a software engineer from Teranga land (Senegal🇸🇳)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz-thedarkcode&label=Profile%20views&color=0e75b6&style=flat" alt="aziz-thedarkcode" /> </p>
 
 <p align="left"> <a href="https://twitter.com/the_darkcode" target="blank"><img src="https://img.shields.io/twitter/follow/the_darkcode?logo=twitter&style=for-the-badge" alt="the_darkcode" /></a> </p>
 
 - 📫 How to reach me **abdouaziznjay@gmail.com**
+
+- 📄 Know about my experiences [https://pink-aviva-67.tiiny.site](https://pink-aviva-67.tiiny.site)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
