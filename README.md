@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to my world 👋🌍, I'm Abdou Aziz Ndiaye</h1>
-<h3 align="center">I am a software engineer from Teranga land (Senegal🇸🇳)</h3>
+<h3 align="center">I am a software engineer from the "Teranga" land (Senegal 🇸🇳)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aziz-thedarkcode&label=Profile%20views&color=0e75b6&style=flat" alt="aziz-thedarkcode" /> </p>
 
