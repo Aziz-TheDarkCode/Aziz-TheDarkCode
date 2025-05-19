@@ -56,3 +56,11 @@
 ---
 
 💡 *Code is poetry written in logic*
+
+
+
+
+
+
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GoLang.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NuxtJS-Dark.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Dark.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" width="40">
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Git.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Electron.svg" width="40"> <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="40">
